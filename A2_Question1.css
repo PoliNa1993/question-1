@@ -1,0 +1,109 @@
+
+body {
+    background-image: url('image_q1.jpg');
+    background-color: mistyrose;
+    background-repeat: repeat;
+}
+
+h2 {
+    width: 550px;
+    color: darkred;
+    border-color: darkred;
+    border-style: solid;
+    border-width: 10px;
+    padding: 30px;
+    background-color: oldlace;
+    margin: 40px;
+    margin-left: 80px;
+}
+
+table {
+    margin: 30px;
+    margin-left: 80px;
+    border-style: dotted;
+    border-width: 15px;
+    border-color: rosybrown;
+    width: 650px;
+    border: 2px;
+}
+
+.one {
+    padding: 10px;
+    color: darkred;
+    background-color: silver;
+}
+
+.two {
+    background-color: linen;
+    border-color: lightsalmon;
+    border-width: thick;
+    border-style: solid;
+    color: darkred;
+}
+
+.three {
+    background-color: lightcyan;
+    border-color: darkslateblue;
+    border-width: thick;
+    border-style: solid;
+}
+
+.four {
+    background-color: lavender;
+    border-color: blueviolet;
+    border-width: thick;
+    border-style: solid;
+    color: darkred;
+}
+
+.five {
+    background-color: aquamarine;
+    border-color: darkolivegreen;
+    border-width: thick;
+    border-style: solid;
+}
+
+ol {
+    list-style: upper-roman;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.special {
+    list-style: armenian;
+}
+
+.a {
+    list-style-image: url("tennis_skirt.jpg");
+}
+
+.b {
+    list-style-image: url("tennis_tshirt.jpg");
+}
+
+.c {
+    list-style-image: url("tennis_shoes.jpg");
+}
+
+.d {
+    color: darkslateblue;
+}
+
+.g {
+    color: darkolivegreen;
+    list-style-type: square;
+}
+
+.j {
+    list-style-image: url("goggles.jpg");
+}
+
+.k {
+    list-style-image: url("earplugs.jpg");
+}
+
+.l {
+    list-style-image: url("noseplug.jpg");
+}
